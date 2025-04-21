@@ -36,3 +36,4 @@ Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and _
 Vulnerability Spectre v2:             Mitigation; Retpolines; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Retpoline
 Vulnerability Srbds:                  Not affected
 Vulnerability Tsx async abort:        Not affected
+
